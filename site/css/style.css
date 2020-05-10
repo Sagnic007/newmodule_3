@@ -1,0 +1,18 @@
+
+body{
+	font-size: 16px;
+	color: #fff;
+	background-color: #61122f;
+	font-family: 'Josefin Sans', sans-serif;
+}
+#header-nav
+{
+	font-size: 20px;
+	color: cyan;
+	background-color: yellow;
+	font-family: 'Josefin Sans', sans-serif;
+	width: 100%;
+	height: 50px;
+	border-radius: 0px;
+
+}
